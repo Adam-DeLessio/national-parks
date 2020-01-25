@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+nav {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 60px;
+  text-decoration: none;
+}
+
+h2 {
+  margin: 0;
+  color: white;
+  margin-left: 50px;
+}
+.home {
+  text-decoration: none;
+}
+
+footer {
+  background-color: black;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.parkLink {
+  text-decoration: none;
+}
+
+.nps {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h5 {
+  margin: 0;
+}
+.DofI {
+  margin: 5px 0;
+}
+.logo {
+  border: 0;
+  margin: 0;
+  height: 75px;
+  width: 75px;
+}
