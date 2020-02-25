@@ -4,16 +4,6 @@ import { Route, Link } from 'react-router-dom';
 import Park from './parkSquare';
 import ParkPage from './parkPage';
 
-// class IntersectionObserver() {
-//   constructor() {
-
-//   }
-// }
-
-// function callback() {
-  
-// }
-
 class App extends Component {
   constructor(props) {
     super(props);
